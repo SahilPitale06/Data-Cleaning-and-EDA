@@ -46,5 +46,5 @@ This project focuses on cleaning and analyzing the Titanic dataset to uncover in
 
 ## Author
 - **Name:** Sahil Pitale
-- **Contact:** sp9328123456@gmail.com | [LinkedIn Profile](www.linkedin.com/in/sahil-pitale-56a5681bb)
+- **Contact:** sp9328123456@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/sahil-pitale-56a5681bb/)
 
