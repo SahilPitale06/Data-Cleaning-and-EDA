@@ -1,4 +1,3 @@
-# Data-Cleaning-and-EDA
 # Titanic Data Cleaning and EDA Project
 
 ## Project Overview
