@@ -43,3 +43,8 @@ This project focuses on cleaning and analyzing the Titanic dataset to uncover in
 2. Install required libraries:
    ```bash
    pip install pandas numpy matplotlib seaborn
+
+## Author
+- **Name:** Sahil Pitale
+- **Contact:** sp9328123456@gmail.com | [LinkedIn Profile](www.linkedin.com/in/sahil-pitale-56a5681bb)
+
